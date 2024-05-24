@@ -5,11 +5,11 @@ A todo application helps users organize and manage their tasks and to-dos. It co
 # Installation
 npm i (for installing nodemodules)
 # Uses
-For Backend
+#For Backend
 1) First open backend project in cmd
 2) npm i
 3) npm start
-For Frontend
+#For Frontend
 1) Open Backend project in cmd
 2)  npm i
 3) npm start
