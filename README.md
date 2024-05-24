@@ -11,10 +11,9 @@ npm i (for installing nodemodules)
 4) Open Frontend project in another cmd
 5) npm i
 6) npm start 
-<br>
 npm start (to Run Project)
 <br>
-Contact
+#Contact
 Manisha Kumari<br>
 Email- manishakumari060401@gmail.com
 
